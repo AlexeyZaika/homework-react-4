@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Велосипед Formula Atlas AM2 Vbr St Black",
+    "description": "горный (MTB), Размер рамы - M (156-178 см), Материал рамы - сталь, двухподвесный, Обод - двухслойный",
+    "price": 5869,
+    "image": "https://f.428.ua/img/2264543/280/245/velosiped_formula_atlas_am2_vbr_st_black_turquoise_26_rama_-_17_2020_ops-fr-26-377~1502~907.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Велосипед Stolen Overlord 2021 Black Sabbath",
+    "description": "BMX, Размер рамы - универсальный, Материал рамы - сталь, без амортизации, Обод - однослойный",
+    "price": 13891,
+    "image": "https://f.428.ua/img/2470187/280/245/velosiped_stolen_overlord_2021_black_sabbath_20_75_skd-26-86_s175~985~670.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Велосипед Orbea Carpe",
+    "description": "городской/дорожный, Размер рамы - XL (180-195 см), Материал рамы - алюминиевый сплав, без амортизации",
+    "price": 39088,
+    "image": "https://f.428.ua/img/2803325/280/245/velosiped_orbea_carpe_28_10_2021_xl_blue_black_l40358sc~1574~884.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Велосипед Orbea Oiz",
+    "description": "горный (MTB), Размер рамы - S (145-165 см), Материал рамы - алюминиевый сплав, двухподвесный, Обод - двухслойный",
+    "price": 99540,
+    "image": "https://f.428.ua/img/2796119/280/245/velosiped_orbea_oiz_29_h20_2021_s_black_green_l23616lc~1568~889.jpg"
+  }
+]
